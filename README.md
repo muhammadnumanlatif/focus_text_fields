@@ -1,6 +1,5 @@
 # focus_text_fields
 
-
 Focus a text field as soon as it’s visible
 
 
@@ -19,4 +18,4 @@ Focus a text field when a button is tapped
 4.  Interactive example
 
 
-!(Output)[Screenshot_1625763126.png]
+![Output](Screenshot_1625763126.png)
